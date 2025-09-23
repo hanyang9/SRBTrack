@@ -4,7 +4,7 @@ permalink: /
 
 title: "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization"
 authors:
-    A. M. Turing
+    Heyuan Yao https://heyuanyao-pku.github.io/, Libin Liu https://libliu.info/, Taesoo Kwon http://calab.hanyang.ac.kr/?node=Taesoo
 affiliations:
     King's College, Cambridge
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
