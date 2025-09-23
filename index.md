@@ -11,7 +11,7 @@ authors:
     name: "Taesoo Kwon"
     url: "http://calab.hanyang.ac.kr/?node=Taesoo"
 affiliations:
-    King's College, Cambridge
+    ^1^Hanyang University, ^2^Peking University
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
