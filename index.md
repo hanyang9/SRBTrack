@@ -4,7 +4,7 @@ permalink: /
 
 title: "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization"
 authors:
-    Hanyang</a><sup>1*</sup>,&nbsp;
+    Hanyang Cao<sup>1*</sup>,&nbsp;
     <a href="https://heyuanyao-pku.github.io/" target="_blank" rel="noopener">Heyuan Yao</a><sup>2*</sup>,&nbsp;
     <a href="https://libliu.info/" target="_blank" rel="noopener">Libin Liu</a><sup>2</sup>,&nbsp;
     <a href="http://calab.hanyang.ac.kr/?node=Taesoo" target="_blank" rel="noopener">Taesoo Kwon</a><sup>1†</sup>
