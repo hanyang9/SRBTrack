@@ -4,15 +4,11 @@ permalink: /
 
 title: "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization"
 authors:
-    - name: "Heyuan Yao"
-      url: "https://heyuanyao-pku.github.io/"
-    - name: "Libin Liu"
-      url: "https://libliu.info/"
-    - name: "Taesoo Kwon"
-      url: "http://calab.hanyang.ac.kr/?node=Taesoo"
+    <a href="https://heyuanyao-pku.github.io/" target="_blank" rel="noopener">Heyuan Yao</a>&nbsp;·&nbsp;
+    <a href="https://libliu.info/" target="_blank" rel="noopener">Libin Liu</a>&nbsp;·&nbsp;
+    <a href="http://calab.hanyang.ac.kr/?node=Taesoo" target="_blank" rel="noopener">Taesoo Kwon</a>
 affiliations:
-    - "Hanyang University"
-    - "Peking University"
+    "Hanyang University, Peking University"
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
