@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization
 authors:
     A. M. Turing
 affiliations:
@@ -18,19 +18,7 @@ data: https://huggingface.co/docs/datasets
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-The "computable" numbers may be described briefly as the real
-numbers whose expressions as a decimal are calculable by finite means.
-Although the subject of this paper is ostensibly the computable numbers.
-it is almost equally easy to define and investigate computable functions
-of an integral variable or a real or computable variable, computable
-predicates, and so forth. The fundamental problems involved are,
-however, the same in each case, and I have chosen the computable numbers
-for explicit treatment as involving the least cumbrous technique. I hope
-shortly to give an account of the relations of the computable numbers,
-functions, and so forth to one another. This will include a development
-of the theory of functions of a real variable expressed in terms of computable
-numbers. According to my definition, a number is computable
-if its decimal can be written down by a machine...
+Generating realistic and robust motion for virtual characters under complex physical conditions, such as irregular terrain, real-time control scenarios, and external disturbances, remains a key challenge in computer graphics. While deep reinforcement learning has enabled high-fidelity physics-based character animation, such methods often suffer from limited generalizability, as learned controllers tend to overfit to the environments they were trained in. In contrast, simplified models, such as single rigid bodies, offer better adaptability, but traditionally require hand-crafted heuristics and can only handle short motion segments. In this paper, we present a general learning framework that trains a single-rigid-body (SRB) character controller from long and unstructured datasets, without the reliance on human-crafted rules. Our method enables zero-shot adaptation to diverse environments and unseen motion styles. The resulting controller generates expressive and physically plausible motions in real time and seamlessly integrates with high-level kinematic motion planners without retraining, enabling a wide range of downstream tasks.
         </div>
     </div>
 </div>
