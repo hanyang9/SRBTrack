@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization
+title: "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization"
 authors:
     A. M. Turing
 affiliations:
