@@ -1,4 +1,4 @@
----
+<img width="667" height="81" alt="image" src="https://github.com/user-attachments/assets/5a2aaca4-6e78-4077-99e6-06871835d05c" />---
 layout: project_page
 permalink: /
 
@@ -29,17 +29,31 @@ Generating realistic and robust motion for virtual characters under complex phys
 
 ---
 <h3 style="text-align: center;">Terrain Adaptation</h3>
+> All blinded! All executed by a single policy! All trained on flat terrain only!.
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <video width="300" controls autoplay muted loop playsinline>
-    <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_hill.mp4" type="video/mp4">
-  </video>
-  <video width="300" controls autoplay muted loop playsinline>
-    <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_pyramid.mp4" type="video/mp4">
-  </video>
-  <video width="300" controls autoplay muted loop playsinline>
-    <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_stepping_stones.mp4" type="video/mp4">
-  </video>
+  <div style="text-align:center;">
+    <video width="300" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_hill.mp4" type="video/mp4">
+    </video>
+    <p>hopping on hill</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video width="300" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_pyramid.mp4" type="video/mp4">
+    </video>
+    <p>Walking on pyramid with ball interaction</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video width="300" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_stepping_stones.mp4" type="video/mp4">
+    </video>
+    <p>Walking on stepping stones</p>
+  </div>
+
 </div>
+
 
 <h2 style="text-align: center;">Video</h2>
 <div style="text-align:center; margin: 20px 0;">
