@@ -29,5 +29,13 @@ Generating realistic and robust motion for virtual characters under complex phys
 ---
 
 <h2 style="text-align: center;">Video</h2>
-
+<div style="text-align:center; margin: 20px 0;">
+  <iframe width="800" height="450" 
+          src="https://www.youtube.com/embed/yf_V8TVO71s" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+  </iframe>
+</div>
 ---
