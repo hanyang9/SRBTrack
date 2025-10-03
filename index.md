@@ -28,8 +28,13 @@ Generating realistic and robust motion for virtual characters under complex phys
 </div>
 
 ---
+
 <h3 style="text-align: center;">Overview</h3>
-![overview](https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/image/overview_final.pdf)
+<div style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/image/overview_final.pdf" alt="overview" width="640">
+    <p>The SRB tracking policy, trained using a combination of reinforcement and supervised learning on flat terrain, generalizes to uneven terrain at inference. A QP solver computes contact forces from predicted actions, while a full-body motion predictor outputs future states. The states are refined via momentum-mapped space–time optimization for rendering.</p>
+</div>
+
 <h3 style="text-align: center;">Terrain Adaptation</h3>
 > All blinded! All executed by a single policy! All trained on flat terrain only!
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
