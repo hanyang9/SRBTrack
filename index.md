@@ -30,7 +30,7 @@ Generating realistic and robust motion for virtual characters under complex phys
 ---
 <div style="text-align:center; margin: 20px 0;">
   <video width="320" height="180" controls>
-    <source src="https://github.com/hanyang9/SRBTrack/blob/main/static/Video/SRB_hill.mp4" type="video/mp4">
+    <source src="https://hanyang9.github.io/SRBTrack/static/Video/SRB_hill.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
