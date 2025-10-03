@@ -29,7 +29,7 @@ Generating realistic and robust motion for virtual characters under complex phys
 
 ---
 <h3 style="text-align: center;">Terrain Adaptation</h3>
-<!-- > All blinded! All executed by a single policy! All trained on flat terrain only! -->
+> All blinded! All executed by a single policy! All trained on flat terrain only!
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="text-align:center;">
     <video width="300" controls autoplay muted loop playsinline>
