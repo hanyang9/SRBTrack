@@ -27,8 +27,11 @@ Generating realistic and robust motion for virtual characters under complex phys
 </div>
 
 ---
-
-## Video
-[Video](https://youtu.be/yf_V8TVO71s)
+<div class="columns is-centered has-text-centered">
+    <div class="column is-four-fifths">
+        <h2>Video</h2>
+    </div>
+</div>
+video: https://www.youtube.com/watch?v=yf_V8TVO71s
 
 ```
