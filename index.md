@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: "SRBTrack: Terrain-Adaptive Tracking of a Single-Rigid-Body Character Using Momentum-Mapped Space-Time Optimization"
-venue: SIGGRAPH Asia 2025
+venue: "SIGGRAPH Asia 2025"
 authors:
     Hanyang Cao<sup>1*</sup>,&nbsp;
     <a href="https://heyuanyao-pku.github.io/" target="_blank" rel="noopener">Heyuan Yao</a><sup>2*</sup>,&nbsp;
