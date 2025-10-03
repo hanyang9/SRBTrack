@@ -13,7 +13,7 @@ affiliations:
     <sup>*</sup> equal contribution;&nbsp;<sup>†</sup> corresponding author
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/watch?v=yf_V8TVO71s
-code(coming soon): https://github.com/hanyang9/SRBTrack
+code: coming soon
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -28,10 +28,6 @@ Generating realistic and robust motion for virtual characters under complex phys
 
 ---
 
-<h2 style="text-align: center;">Abstract</h2>
-
----
-
-![video](https://www.youtube.com/watch?v=yf_V8TVO71s)
+<h2 style="text-align: center;">Video</h2>
 
 ---
