@@ -39,6 +39,44 @@ Generating realistic and robust motion for virtual characters under complex phys
 
 <h3 style="text-align: center;">Terrain Adaptation</h3>
 > All blinded! All executed by a single policy! All trained on flat terrain only!
+
+<h3 style="text-align: center;">Unseen Motion Tracking</h3>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+
+  <div style="text-align:center;">
+    <video width="480" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_kick.mp4" type="video/mp4">
+    </video>
+    <p>Kicking on flat terrain.</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video width="480" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_volleyball.mp4" type="video/mp4">
+    </video>
+    <p>Playing volleyball on flat terrain.</p>
+  </div>
+
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+
+  <div style="text-align:center;">
+    <video width="480" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_basketball.mp4" type="video/mp4">
+    </video>
+    <p>Playing basketball on rough terrain.</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video width="480" controls autoplay muted loop playsinline>
+      <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_fight.mp4" type="video/mp4">
+    </video>
+    <p>Fighting on hill terrain.</p>
+  </div>
+
+</div>
+
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="text-align:center;">
     <video width="300" controls autoplay muted loop playsinline>
