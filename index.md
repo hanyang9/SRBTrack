@@ -28,7 +28,7 @@ Generating realistic and robust motion for virtual characters under complex phys
 </div>
 
 ---
-
+![SRB_hill](/static/Video/SRB_hill.mp4)
 <h2 style="text-align: center;">Video</h2>
 <div style="text-align:center; margin: 20px 0;">
   <iframe width="800" height="450" 
