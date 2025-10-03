@@ -35,21 +35,21 @@ Generating realistic and robust motion for virtual characters under complex phys
     <video width="300" controls autoplay muted loop playsinline>
       <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_hill.mp4" type="video/mp4">
     </video>
-    <p>hopping on hill</p>
+    <p>Hopping on hill.</p>
   </div>
 
   <div style="text-align:center;">
     <video width="300" controls autoplay muted loop playsinline>
       <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_pyramid.mp4" type="video/mp4">
     </video>
-    <p>Walking on pyramid with ball interaction</p>
+    <p>Walking on pyramid with ball interaction.</p>
   </div>
 
   <div style="text-align:center;">
     <video width="300" controls autoplay muted loop playsinline>
       <source src="https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/Video/SRB_stepping_stones.mp4" type="video/mp4">
     </video>
-    <p>Walking on stepping stones</p>
+    <p>Walking on stepping stones.</p>
   </div>
 
 </div>
