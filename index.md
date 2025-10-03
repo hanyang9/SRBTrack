@@ -12,8 +12,8 @@ affiliations:
     <sup>1</sup> Hanyang University;&nbsp;&nbsp;<sup>2</sup> Peking University<br/>
     <sup>*</sup> equal contribution;&nbsp;<sup>†</sup> corresponding author
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
-code(coming soon): https://github.com/topics/turing-machines
+video: https://www.youtube.com/watch?v=yf_V8TVO71s
+code(coming soon): https://github.com/hanyang9/SRBTrack
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -28,10 +28,10 @@ Generating realistic and robust motion for virtual characters under complex phys
 
 ---
 
-<h2>Video</h2>
+<h2 style="text-align: center;">Abstract</h2>
 
 ---
 
 ![video](https://www.youtube.com/watch?v=yf_V8TVO71s)
 
-```
+---
