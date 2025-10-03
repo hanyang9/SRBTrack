@@ -29,6 +29,6 @@ Generating realistic and robust motion for virtual characters under complex phys
 ---
 
 ## Video
-![Video](https://youtu.be/yf_V8TVO71s)
+[Video](https://youtu.be/yf_V8TVO71s)
 
 ```
