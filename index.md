@@ -13,8 +13,7 @@ affiliations:
     <sup>*</sup> equal contribution;&nbsp;<sup>†</sup> corresponding author
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+code(coming soon): https://github.com/topics/turing-machines
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -30,8 +29,6 @@ Generating realistic and robust motion for virtual characters under complex phys
 ---
 
 ## Video
-![Video](/static/image/Turing_machine.png)
-
-*Figure 1: A representation of a Turing Machine. Source: [Wiki](https://en.wikipedia.org/wiki/Turing_machine).*
+![Video](https://youtu.be/yf_V8TVO71s)
 
 ```
