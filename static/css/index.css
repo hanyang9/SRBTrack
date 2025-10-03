@@ -56,9 +56,15 @@ body {
 }
 
 .publication-venue {
+    font-family: 'Google Sans', sans-serif;
     color: #555;
     width: fit-content;
     font-weight: bolder;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.publication-venue {
 }
 
 .publication-awards {
