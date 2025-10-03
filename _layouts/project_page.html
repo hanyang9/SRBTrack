@@ -77,7 +77,7 @@
                 </a>
               </span>
               {% endif %}
-              <!-- Video Link. -->
+              <!-- <!-- Video Link. -->
               {% if page.video %}
               <span class="link-block">
                 <a href="{{ page.video }}"
@@ -88,6 +88,28 @@
                   <span>Video</span>
                 </a>
               </span>
+              {% endif %} -->
+              <!-- Video Embed -->
+              {% if page.video %}
+              <div style="text-align:center; margin: 20px 0;">
+                <!-- YouTube 播放器嵌入 -->
+                <iframe width="560" height="315" 
+                        src="{{ page.video | replace: 'watch?v=', 'embed/' }}" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                </iframe>
+              
+                <!-- 跳转按钮 -->
+                <div style="margin-top:10px;">
+                  <a href="{{ page.video }}" target="_blank"
+                     class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fab fa-youtube"></i></span>
+                    <span>Watch on YouTube</span>
+                  </a>
+                </div>
+              </div>
               {% endif %}
               <!-- Code Link. -->
               {% if page.code %}
