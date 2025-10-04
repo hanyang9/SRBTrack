@@ -12,7 +12,7 @@ authors:
 affiliations:
     <sup>1</sup> Hanyang University;&nbsp;&nbsp;<sup>2</sup> Peking University<br/>
     <sup>*</sup> equal contribution;&nbsp;<sup>†</sup> corresponding author
-paper: https://raw.githubusercontent.com/hanyang9/SRBTrack/main/static/paper/saconferencepapers25-15.pdf
+paper: https://hanyang9.github.io/SRBTrack/static/paper/saconferencepapers25-15.pdf
 video: https://www.youtube.com/watch?v=yf_V8TVO71s
 code: coming soon
 ---
